@@ -1,0 +1,32 @@
+{
+  "project_info": {
+    "project_number": "757910868015",
+    "firebase_url": "https://ios-l-screw-puzzle-l-nut1-default-rtdb.firebaseio.com",
+    "project_id": "ios-l-screw-puzzle-l-nut1",
+    "storage_bucket": "ios-l-screw-puzzle-l-nut1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757910868015:ios:70efdfebeddf9e3f4db6da",
+        "android_client_info": {
+          "package_name": "com.trendybuy.screw.puzzle.game"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkE815O44_r8rQrWoQLAsEjwgWdaI0ENE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
